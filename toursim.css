@@ -1,0 +1,35 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100vh;
+   width: max-content;
+    
+}
+.bg-heading{
+    font-family: "Roboto";
+    font-size: 28px;
+    font-style:bold;
+    color: aliceblue;
+    padding: 24px;
+}
+.fav-placescard{
+    background-color: white ;
+    border-radius:8px;
+    padding: 16px;
+    margin: 17px;
+    
+}
+.card-heading{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-paragraph{
+    font-family: "Roboto";
+    font-size: medium;
+    font-weight: 100;
+    font-size: bold;
+}
+.fav-image{
+    height:100px ;
+    width: px;
+}
